@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/D4D16AQGbUobEt_CpHw/profile-displaybackgroundimage-shrink_350_1400/0/1669801661723?e=1679529600&v=beta&t=UO6-yR3WkbmPOb-2tcT4MtuQM9OTv8giVzWweAPCSfE">
 <h1 align="center">Hi 👋, I'm Henrique Jardim</h1>
 <h3 align="center">Developer Front-End from Brazil.</h3>
 
@@ -8,6 +9,8 @@
 - 📫 How to reach me: **futuristic@toki.life**
 
 - ⚡ Fun fact **Im Music Producer too.**
+
+<img alt="coding" align="center" width="400" src="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

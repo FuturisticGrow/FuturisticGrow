@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **Im Music Producer too.**
 
-<img alt="coding" align="center" width="400" src="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">
+<img align="right" src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

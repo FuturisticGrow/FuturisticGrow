@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **Im Music Producer too.**
 
-<img align="right" src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img align="right" src="https://cdn.discordapp.com/attachments/1059472609764462662/1066462747115651113/giphy_1.gif" width="400" height="268" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

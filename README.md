@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=futuristicgrow&show_icons=true&locale=en" alt="futuristicgrow" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=futuristicgrow&" alt="futuristicgrow" /></p>
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)

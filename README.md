@@ -1,3 +1,6 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+
+
 <img src="https://media.licdn.com/dms/image/D4D16AQGbUobEt_CpHw/profile-displaybackgroundimage-shrink_350_1400/0/1669801661723?e=1679529600&v=beta&t=UO6-yR3WkbmPOb-2tcT4MtuQM9OTv8giVzWweAPCSfE">
 <h1 align="center">Hi 👋, I'm Henrique Jardim</h1>
 <h3 align="center">Developer Front-End from Brazil.</h3>
@@ -16,6 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/henrique-jardim-372199193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique-jardim-372199193" height="30" width="40" /></a>
 <a href="https://instagram.com/hqjardim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hqjardim" height="30" width="40" /></a>
+<i class="bi bi-bootstrap"></i>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

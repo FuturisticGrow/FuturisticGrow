@@ -1,6 +1,6 @@
 
 
-<img src="https://www.law.ox.ac.uk/sites/default/files/migrated/screen_shot_2020-02-23_at_01.57.58.png">
+<img src="https://www.law.ox.ac.uk/sites/default/files/migrated/screen_shot_2020-02-23_at_01.57.58.png" align="center">
 
 <h1 align="center">Hi 👋, I'm Henrique Jardim</h1>
 <h3 align="center">Developer Front-End from Brazil.</h3>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **futuristic@toki.life**
 
-- ⚡ Another skills: **Sound Engineer & Record Label CEO.**
+- ⚡ Beyond Codes: **Sound Engineer & Record Label CEO.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

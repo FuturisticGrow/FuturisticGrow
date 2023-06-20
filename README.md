@@ -1,6 +1,6 @@
 
 
-<img src="https://www.law.ox.ac.uk/sites/default/files/migrated/screen_shot_2020-02-23_at_01.57.58.png" align="center">
+<img align="center" src="https://www.law.ox.ac.uk/sites/default/files/migrated/screen_shot_2020-02-23_at_01.57.58.png">
 
 <h1 align="center">Hi 👋, I'm Henrique Jardim</h1>
 <h3 align="center">Developer Front-End from Brazil.</h3>
